@@ -76,13 +76,13 @@ __National Chung Hsing University__
 ## Computer Languages 
 Python
 
-## Machine Learning and Deep Learning Frameworks: 
-Tensorflow, Keras, Pytorch, Sklearn
+## ML and DL Frameworks 
+Pytorch, Tensorflow, Keras, Sklearn
 
-## Development Environment: 
+## Development Environment 
 Linux, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
 
-## Databases and Data Analysis Platforms: 
+## Databases and Data Analysis Platforms 
 MySQL, Grafana
 
 
