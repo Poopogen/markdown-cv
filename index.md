@@ -73,13 +73,17 @@ __National Chung Hsing University__
 - B.S. in Food Science and Biotechnology and Soil and Environmental Sciences (Double Major)
 
 
-## Computer Languages Python
+## Computer Languages 
+Python
 
-## Machine Learning and Deep Learning Frameworks: Tensorflow, Keras, Pytorch, Sklearn
+## Machine Learning and Deep Learning Frameworks: 
+Tensorflow, Keras, Pytorch, Sklearn
 
-## Development Environment: Linux, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
+## Development Environment: 
+Linux, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
 
-## Databases and Data Analysis Platforms: MySQL, Grafana
+## Databases and Data Analysis Platforms: 
+MySQL, Grafana
 
 
 
