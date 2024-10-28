@@ -3,8 +3,6 @@ layout: cv
 title: Priscila's CV
 ---
 # Priscila Ung
-AI Engineer, Mathematician, Cambridge professor.
-
 <div id="webaddress">
 <a href="pici9218@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/priscilaung">LinkedIn</a>
