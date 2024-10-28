@@ -14,14 +14,13 @@ title: Priscila's CV
 Innovative AI Research Engineer with extensive experience in machine learning, data analysis, and project management. Proven track record in developing and implementing AI technologies across diverse fields, including medical imaging and chemical manufacturing. Skilled in cross-functional collaboration, project tracking, and technical documentation.
 
 ### Experience
-
+`2019 - Present`
 __AI Research Engineer__, Chang Gung University, AI Research Center
-`2019 - Present` 
 - AI Technology Development: Spearheaded various projects focusing on data analysis, machine learning, and deep learning techniques.
 - Project Management: Managed contracts, tracked project progress, facilitated communication among stakeholders, maintained project budgets, and documented technical files.
 
-__Chemical Testing Analyst__, National Chung Hsing University, Soil Survey and Testing Center
 `2014 - 2019`
+__Chemical Testing Analyst__, National Chung Hsing University, Soil Survey and Testing Center
 - Executed chemical testing and data quality control, achieving ISO/IEC 17025 laboratory certification through meticulous instrument calibration and compliance audits.
 - Trained laboratory staff in best practices for chemical analysis, enhancing operational efficiency and accuracy in testing processes.
 
@@ -30,19 +29,32 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 
 ### Projects
-- Brain Tumor Diagnosis Research `2024-Present`
+`2024-Present`
+__Brain Tumor Diagnosis Research__ 
 Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, focusing on computing efficiency and MRI data processing.
-- Ophthalmic 3D Microsurgery Techniques `2023-Present`
+
+`2023-Present`
+__Ophthalmic 3D Microsurgery Techniques__ 
 Conducted video data processing and built depth estimation models for 3D reconstruction in eye research.
-- CGU Cloud Platform (2022-Present)
+
+`2022-Present`
+__CGU Cloud Platform__ 
 Led system testing, maintained user guides, and documented interactions for a cloud platform offering GPU and CPU resources for educational purposes.
-- Synthetic Phenol Plant Optimization Project (2019-2022)
+
+`2019-2022`
+__Synthetic Phenol Plant Optimization Project__
 Designed main programs and conducted time-series AI modeling for real-time predictions in chemical manufacturing.
-- AOI Defect Detection for Circuit Boards (2019-2021)
+
+`2019-2021`
+__AOI Defect Detection for Circuit Boards__
 Managed project requirements and testing documents for defect detection and classification in circuit board manufacturing.
-- PTA Particle Size Control Project (2019-2020)
+
+`2019-2020`
+__PTA Particle Size Control Project__
 Developed time-series AI models for predicting PTA particle size to improve product quality.
-- AI Research on Metabolites (2019-2020)
+
+`2019-2020`
+__AI Research on Metabolites__
 Unsupervised classification of metabolites to assess the severity of illness related to sarcopenia and brain failure.
 
 
