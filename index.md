@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Priscila's CV
+title: Priscila Ung
 ---
 # Priscila Ung
 <div id="webaddress">
@@ -13,7 +13,7 @@ title: Priscila's CV
 ## Professional Summary
 Innovative AI Research Engineer with extensive experience in machine learning, data analysis, and project management. Proven track record in developing and implementing AI technologies across diverse fields, including medical imaging and chemical manufacturing. Skilled in cross-functional collaboration, project tracking, and technical documentation.
 
-### Experience
+## Experience
 `2019 - Present`
 __AI Research Engineer__, <a href="https://www.cgu.edu.tw/aic-en">CGU AI Research Center</a>
 - - AI Technology Development: Spearheaded various projects focusing on data analysis, machine learning, and deep learning techniques.
@@ -27,7 +27,7 @@ __Chemical Testing Analyst__, <a href="https://sstc.nchu.edu.tw/EN/index">NCHU S
 
 
 
-### Projects
+## Projects
 `2024-Present`
 __Brain Tumor Diagnosis Research__ 
 - Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, focusing on computing efficiency and MRI data processing.
@@ -60,54 +60,27 @@ __AI Research on Metabolites__
 
 
 ## Education
-`2008 - 2012`
-__National Chung Hsing University__
-M.S. in Soil and Environmental Sciences
-
 `2012 - 2014`
 __National Chung Hsing University__
-B.S. in Food Science and Biotechnology and Soil and Environmental Sciences (Double Major)
+- M.S. in Soil and Environmental Sciences
+
+`JUL,2011 – SEP,2011`
+ <a href="https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/">USDA-ARS NSERL</a> and <a href="https://ag.purdue.edu/department/agry/index.html">Agronomy Department of Purdue University</a>
+- Visiting Student 
+
+`2008 - 2012`
+__National Chung Hsing University__
+- B.S. in Food Science and Biotechnology and Soil and Environmental Sciences (Double Major)
 
 
-## Awards
+## Computer Languages Python
 
-`2012`
-President, *Royal Society*, London, UK
+## Machine Learning and Deep Learning Frameworks: Tensorflow, Keras, Pytorch, Sklearn
 
-Associate, *French Academy of Science*, Paris, France
+## Development Environment: Linux, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
 
+## Databases and Data Analysis Platforms: MySQL, Grafana
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
