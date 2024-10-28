@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Priscila's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Priscila Ung
+AI Engineer, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pici9218@gmail.com">Email</a>
+| <a href="https://www.linkedin.com/in/priscilaung">LinkedIn</a>
+| <a href="https://github.com/Poopogen">Github</a> 
 </div>
 
 
