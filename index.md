@@ -20,7 +20,7 @@ __AI Research Engineer__, Chang Gung University, AI Research Center
 - AI Technology Development: Spearheaded various projects focusing on data analysis, machine learning, and deep learning techniques.
 - Project Management: Managed contracts, tracked project progress, facilitated communication among stakeholders, maintained project budgets, and documented technical files.
 - Key Projects:
-Brain Tumor Diagnosis Research (2024-Present)
+- - Brain Tumor Diagnosis Research (2024-Present)
   Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, focusing on computing efficiency and MRI data processing.
 
 Ophthalmic 3D Microsurgery Techniques (2023-Present)
