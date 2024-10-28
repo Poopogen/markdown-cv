@@ -189,7 +189,12 @@ strong {
 	display: none;
 }
 
-
+/* This hack fixes scrollable on x for tablets -PU */
+@media only screen and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
+}
 
 /* Mobile styling, starting at iPad portrait size -PU */
 @media only screen and (max-width: 768px) {
