@@ -70,7 +70,7 @@ __National Chung Hsing University__
 
 `2008 - 2012`
 __National Chung Hsing University__
-- B.S. in Food Science and Biotechnology and Soil and Environmental Sciences (Double Major)
+- B.S. in Food Science and Biotechnology & Soil and Environmental Sciences (Double Major)
 
 
 ## Computer Languages 
