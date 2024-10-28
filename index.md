@@ -15,17 +15,16 @@ Innovative AI Research Engineer with extensive experience in machine learning, d
 
 ### Experience
 `2019 - Present`
-__AI Research Engineer__, Chang Gung University, AI Research Center
+__AI Research Engineer__, <a href="https://www.cgu.edu.tw/aic-en">CGU AI Research Center</a>
 - AI Technology Development: Spearheaded various projects focusing on data analysis, machine learning, and deep learning techniques.
 - Project Management: Managed contracts, tracked project progress, facilitated communication among stakeholders, maintained project budgets, and documented technical files.
 
 `2014 - 2019`
-__Chemical Testing Analyst__, National Chung Hsing University, Soil Survey and Testing Center
+__Chemical Testing Analyst__, <a href="https://sstc.nchu.edu.tw/EN/index">NCHU Soil Survey and Testing Center</a>
 - Executed chemical testing and data quality control, achieving ISO/IEC 17025 laboratory certification through meticulous instrument calibration and compliance audits.
 - Trained laboratory staff in best practices for chemical analysis, enhancing operational efficiency and accuracy in testing processes.
 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Projects
@@ -61,20 +60,13 @@ Unsupervised classification of metabolites to assess the severity of illness rel
 
 
 ## Education
+`2008 - 2012`
+__National Chung Hsing University__
+M.S. in Soil and Environmental Sciences
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2012 - 2014`
+__National Chung Hsing University__
+B.S. in Food Science and Biotechnology and Soil and Environmental Sciences (Double Major)
 
 
 ## Awards
