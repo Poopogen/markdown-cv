@@ -15,12 +15,12 @@ Innovative AI Research Engineer with extensive experience in machine learning, d
 
 ## Experience
 `2019 - Present`
-__AI Research Engineer__, <a href="https://www.cgu.edu.tw/aic-en">CGU AI Research Center</a>
+__AI Research Engineer__, [CGU AI Research Center](https://www.cgu.edu.tw/aic-en)
 - AI Technology Development: Spearheaded various projects focusing on data analysis, machine learning, and deep learning techniques.
 - Project Management: Managed contracts, tracked project progress, facilitated communication among stakeholders, maintained project budgets, and documented technical files.
 
 `2014 - 2019`
-__Chemical Testing Analyst__, <a href="https://sstc.nchu.edu.tw/EN/index">NCHU Soil Survey and Testing Center</a>
+__Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc.nchu.edu.tw/EN/index)
 - Executed chemical testing and data quality control, achieving ISO/IEC 17025 laboratory certification through meticulous instrument calibration and compliance audits.
 - Trained laboratory staff in best practices for chemical analysis, enhancing operational efficiency and accuracy in testing processes.
 
@@ -65,7 +65,7 @@ __National Chung Hsing University__
 - M.S. in Soil and Environmental Sciences
 
 `JUL,2011 – SEP,2011`
- <a href="https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/"> __USDA-ARS NSERL__ </a> and <a href="https://ag.purdue.edu/department/agry/index.html"> __Agronomy Department of Purdue University__ </a>
+ [__USDA-ARS NSERL__](https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/) and [__Agronomy Department of Purdue University__](https://ag.purdue.edu/department/agry/index.html)
 - Visiting Student 
 
 `2008 - 2012`
