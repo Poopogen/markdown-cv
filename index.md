@@ -10,8 +10,6 @@ title: Priscila Ung
 </div>
 
 
-## Professional Summary
-Innovative AI Research Engineer with extensive experience in machine learning, data analysis, and project management. Proven track record in developing and implementing AI technologies across diverse fields, including medical imaging and chemical manufacturing. Skilled in cross-functional collaboration, project tracking, and technical documentation.
 
 ## Experience
 `2019 – Present`
