@@ -14,8 +14,8 @@ title: Priscila Ung
 ## Experience
 `2019 – Present`
 __AI Research Engineer__, [CGU AI Research Center](https://www.cgu.edu.tw/aic-en)
-- Developed and implemented AI technologies through data analysis, machine learning, deep learning, and AI modeling. Collaborated with cross-functional teams to drive innovative solutions and enhance system performance, ensuring alignment with project goals and objectives.
-- Oversaw project management activities, including progress tracking, contract negotiation, and stakeholder communication. Maintained budgets and documented technical files to ensure compliance and transparency throughout the project lifecycle.
+- Developed and implemented AI technologies using data analysis, machine learning, deep learning, and AI modeling, collaborating with cross-functional teams to enhance system performance.
+- Oversaw project management activities, including progress tracking, contract negotiation, and stakeholder communication, while maintaining budgets and ensuring compliance with informative technical documentations.
 - Led a technical workshop for 30 individuals in cross-functional training on the principles of AI virtual control systems and the operation of online systems, as well as on AI model development and implementation. Conducted two advanced educational AI workshops, introducing time series models to approximately 50 and 25 participants, respectively.
 
 `2014 – 2019`
