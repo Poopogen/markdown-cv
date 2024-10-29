@@ -15,7 +15,8 @@ title: Priscila Ung
 `2019 – Present`
 __AI Research Engineer__, [CGU AI Research Center](https://www.cgu.edu.tw/aic-en)
 - AI Technology Development: Spearheaded various projects focusing on data analysis, machine learning, and deep learning techniques.
-- Project Management: Managed contracts, tracked project progress, facilitated communication among stakeholders, maintained project budgets, and documented technical files.
+- Oversaw project management activities, including progress tracking, contract negotiation, and stakeholder communication. Maintained budgets and documented technical files to ensure compliance and transparency throughout the project lifecycle.
+- Led a technical workshop for 30 individuals in cross-functional training on the principles of AI virtual control systems and the operation of online systems, as well as on AI model development and implementation. Conducted two advanced educational AI workshops, introducing time series models to approximately 50 and 25 participants, respectively.
 
 `2014 – 2019`
 __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc.nchu.edu.tw/EN/index)
