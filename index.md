@@ -29,7 +29,7 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 ## Projects
 `2024 – Present`
 __Brain Tumor Diagnosis Research__  
-``Contrastive Learning, Domain Adaptation, MRI data processing``
+Contrastive Learning, Domain Adaptation, MRI data processing
 - Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, focusing on computing efficiency and MRI data processing.
 
 `2023 – Present`
