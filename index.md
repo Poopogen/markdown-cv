@@ -32,6 +32,10 @@ __Ophthalmic 3D Microsurgery Techniques__
   Depth Estimation, 3D Reconstruction, Video Data Processing
 - Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries.
 
+`2024 – Present`
+__Automated Standard Engineering Drawing Retrieval__
+- Developed an automated conversion system to streamline AutoCAD processes, achieving an 80% reduction in manpower, and designed an automated searching system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset.
+
 `2023 – Present`
 __Brain Tumor Diagnosis Research__
   Contrastive Learning, Domain Adaptation, MRI Data Processing
