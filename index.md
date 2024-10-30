@@ -29,7 +29,7 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 ## Projects
 `2024 – Present`
 __Ophthalmic 3D Microsurgery Techniques__ 
-  Depth Estimation, 3D Reconstruction, Video Data Processing
+- Depth Estimation, 3D Reconstruction, Video Data Processing
 - Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries.
 
 `2024 – Present`
@@ -38,16 +38,16 @@ __Automated Standard Engineering Drawing Retrieval__
 
 `2023 – 2024`
 __Brain Tumor Diagnosis Research__
-  Contrastive Learning, Domain Adaptation, MRI Data Processing
+- Contrastive Learning, Domain Adaptation, MRI Data Processing
 - Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, addressing domain shift and reduced model performance in small local hospital datasets while minimizing data labeling needs through unsupervised contrastive learning.
 
 `2022 – 2024`
 __CGU Cloud Platform__ 
-- Led system testing, maintained user guides, and documented interactions for a cloud platform offering GPU and CPU resources for educational purposes.
+- Led acceptance testing, maintained user guides, and served as the primary application interface for users of a cloud platform that provides GPU and CPU resources for educational purposes.
 
 `2019 – 2022`
 __Synthetic Phenol Plant Optimization Project__
-    Main Program Design, Time-Series AI Modeling, Frontend and Backend Systems Integration, Database and Dashboard Management 
+- Main Program Design, Time-Series AI Modeling, Frontend and Backend Systems Integration, Database and Dashboard Management 
 - Developed a real-time prediction system for phenol concentration and provided energy-saving and cost-saving operation recommendations for chemical manufacturing, utilizing AIoT technologies and virtual control systems, while collaborating cross-functionally with materials science experts.
 
 `2019 – 2021`
