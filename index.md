@@ -60,7 +60,7 @@ __PTA Particle Size Control Project__
 
 `2019 – 2020`
 __AI Research on Metabolites__
-- Participated in unsupervised classification research of metabolites to assess the severity of illnesses associated with sarcopenia and brain failure.
+- Participated in unsupervised classification research on metabolites to evaluate the severity of illnesses related to sarcopenia and brain failure.
 
 
 
