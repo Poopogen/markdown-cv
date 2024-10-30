@@ -35,7 +35,9 @@ __Brain Tumor Diagnosis Research__
 
 `2023 – Present`
 __Ophthalmic 3D Microsurgery Techniques__ 
-- Conducted video data processing and built depth estimation models for 3D reconstruction in eye research.
+  - Video Data Processing, Depth Estimation, 3D Reconstruction
+- Developed depth estimation models for 3D reconstruction in eye research.
+- Provided doctors with precise distance information to enhance accuracy during eye surgeries.
 
 `2022 – Present`
 __CGU Cloud Platform__ 
