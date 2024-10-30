@@ -36,12 +36,12 @@ __Ophthalmic 3D Microsurgery Techniques__
 __Automated Standard Engineering Drawing Retrieval__
 - Developed an automated conversion system to streamline AutoCAD processes, achieving an 80% reduction in manpower, and designed an automated searching system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset.
 
-`2023 – Present`
+`2023 – 2024`
 __Brain Tumor Diagnosis Research__
   Contrastive Learning, Domain Adaptation, MRI Data Processing
 - Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, addressing domain shift and reduced model performance in small local hospital datasets while minimizing data labeling needs through unsupervised contrastive learning.
 
-`2022 – Present`
+`2022 – 2024`
 __CGU Cloud Platform__ 
 - Led system testing, maintained user guides, and documented interactions for a cloud platform offering GPU and CPU resources for educational purposes.
 
