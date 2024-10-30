@@ -30,14 +30,12 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 `2024 – Present`
 __Brain Tumor Diagnosis Research__
   Contrastive Learning, Domain Adaptation, MRI Data Processing
-- Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, focusing on computing efficiency and MRI data processing.
-- Addressed small local datasets through domain adaptation, reduced data labeling needs with unsupervised contrastive learning.
+- Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, addressing domain shift and reduced model performance in small local hospital datasets while minimizing data labeling needs through unsupervised contrastive learning.
 
 `2023 – Present`
 __Ophthalmic 3D Microsurgery Techniques__ 
   Depth Estimation, 3D Reconstruction, Video Data Processing
-- Developed depth estimation models for 3D reconstruction in eye research.
-- Provided doctors with precise distance information to enhance accuracy during eye surgeries.
+- Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries.
 
 `2022 – Present`
 __CGU Cloud Platform__ 
