@@ -1,86 +1,100 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Priscila Ung
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Priscila Ung
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:pici9218@gmail.com">Email</a>
+| <a href="https://www.linkedin.com/in/priscilaung">LinkedIn</a>
+| <a href="https://github.com/Poopogen">Github</a> 
 </div>
 
 
-## Currently
 
-Standing on the shoulders of giants
+## Experience
+`2019 – Present`
+__AI Research Engineer__, [CGU AI Research Center](https://www.cgu.edu.tw/aic-en)
+- Developed and implemented AI technologies leveraging data analysis, machine learning, and deep learning, with a focus on supervised and unsupervised learning for computer vision and regression tasks.
+- Collaborated with cross-functional teams on projects involving depth estimation, feature matching, segmentation, object detection, and time series prediction.
+- Led a technical workshop for about 30 individuals in cross-functional training on the principles of AI virtual control systems and the operation of online systems, as well as on AI model development and implementation. Conducted two advanced educational AI workshops, introducing time series models to approximately 50 and 25 participants, respectively.
+- Oversaw project management activities, including progress tracking, contract negotiation, and stakeholder communication, while maintaining budgets and ensuring compliance with informative technical documentations.
 
-### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2014 – 2019`
+__Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc.nchu.edu.tw/EN/index)
+- Executed chemical testing and data quality control, achieving ISO/IEC 17025 laboratory certification through meticulous instrument calibration and compliance audits.
+- Trained laboratory staff in best practices for chemical analysis, enhancing operational efficiency and accuracy in testing processes.
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+
+## Projects
+`2024 – Present`
+__Ophthalmic 3D Microsurgery Techniques__ 
+- Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries. (Depth Estimation, 3D Reconstruction, Video Data Processing)
+
+`2024 – Present`
+__Automated Standard Engineering Drawing Retrieval__ 
+- Developed an automated search system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset, and designed an automated system to streamline design file conversion, reducing manpower by 80%.
+- Matching Algorithm, OCR, Keyword Extraction
+
+`2022 – 2024`
+__Brain Tumor Diagnosis Research__ 
+- Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, addressing domain shift and reduced model performance in small local hospital datasets while minimizing data labeling needs through unsupervised contrastive learning. 
+- Contrastive Learning, Domain Adaptation, Medical MRI Data Processing
+
+`2022 – 2024`
+__CGU Cloud Platform__ 
+- Led acceptance testing, maintained user guides, and served as the primary application interface for users of a cloud platform that provides GPU and CPU resources for educational purposes.
+
+`2019 – 2022`
+__Synthetic Phenol Plant Optimization Project__ 
+- Designed and developed a real-time AI-powered prediction system for phenol concentration in chemical manufacturing, utilizing AIoT and virtual control systems to provide energy-saving and cost-saving recommendations.
+- Integrated frontend/back-end systems, databases, and dashboards, collaborating with materials science experts to ensure system alignment and optimize operational efficiency. 
+- Time-Series AI Modeling, AIoT, Virtual Control Systems
+
+`2019 – 2021`
+__AOI Defect Detection for Circuit Boards__
+- Managed project requirements and testing documents for a multiclass defect detection and classification system in circuit board manufacturing, while also contributing to the design of the system pipeline.
+  
+`2019 – 2020`
+__PTA Particle Size Control Project__ 
+- Developed time-series AI models for predicting PTA particle size to improve product quality. (Time-Series AI Modeling)
+
+`2019 – 2020`
+__AI Research on Metabolites__ 
+- Participated in unsupervised classification research on metabolites to evaluate the severity of illnesses related to sarcopenia and brain failure. 
+- Clustering Algorithms
+
+
 
 
 ## Education
+`2012 – 2014`
+__National Chung Hsing University__
+- M.S. in Soil and Environmental Sciences
 
-`1654-1660`
-__The King's School, Grantham.__
+`JUL 2011 – SEP 2011`
+ [__USDA-ARS NSERL__](https://www.ars.usda.gov/midwest-area/west-lafayette-in/national-soil-erosion-research/) and [__Agronomy Department of Purdue University__](https://ag.purdue.edu/department/agry/index.html)
+- Visiting Student 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2008 – 2012`
+__National Chung Hsing University__
+- B.S. in Food Science and Biotechnology & Soil and Environmental Sciences (Double Major)
 
 
+## Computer Languages 
+Python
 
-## Awards
+## ML and DL Frameworks 
+Pytorch, Tensorflow, Keras, Sklearn
 
-`2012`
-President, *Royal Society*, London, UK
+## Development Environment 
+Linux, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
 
-Associate, *French Academy of Science*, Paris, France
+## Platforms 
+MySQL, Grafana
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
