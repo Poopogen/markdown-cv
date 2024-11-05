@@ -60,7 +60,8 @@ __AOI Defect Detection for Circuit Boards__
   
 `2019 – 2020`
 __PTA Particle Size Control Project__ 
-- Developed time-series AI models for predicting PTA particle size to improve product quality. (Time-Series AI Modeling)
+- Developed time-series AI models for predicting PTA particle size to improve product quality.
+- (Time-Series AI Modeling)
 
 `2019 – 2020`
 __AI Research on Metabolites__ 
