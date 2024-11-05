@@ -30,15 +30,14 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 
 ## Projects
 `2024 – Present`
-__Ophthalmic 3D Microsurgery Techniques__ 
-- Depth Estimation, 3D Reconstruction, Video Data Processing
+__Ophthalmic 3D Microsurgery Techniques__ (Depth Estimation, 3D Reconstruction, Video Data Processing)
 - Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries.
 
 `2024 – Present`
-__Automated Standard Engineering Drawing Retrieval__
-- Developed an automated conversion system to streamline AutoCAD processes, achieving an 80% reduction in manpower, and designed an automated searching system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset.
+__Automated Standard Engineering Drawing Retrieval__ (Matching Algorithm, OCR, Keyword Extraction)
+- Developed an automated search system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset, and designed an automated system to streamline design file conversion, reducing manpower by 80%.
 
-`2023 – 2024`
+`2022 – 2024`
 __Brain Tumor Diagnosis Research__ (Contrastive Learning, Domain Adaptation, Medical MRI Data Processing)
 - Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, addressing domain shift and reduced model performance in small local hospital datasets while minimizing data labeling needs through unsupervised contrastive learning.
 
