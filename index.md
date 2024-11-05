@@ -36,7 +36,7 @@ __Ophthalmic 3D Microsurgery Techniques__
 
 `2024 – Present`
 __Automated Standard Engineering Drawing Retrieval__ 
-- (Matching Algorithm, OCR, Keyword Extraction)
+- (Matching Algorithms, OCR, Keyword Extraction)
 - Developed an automated search system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset, and designed an automated system to streamline design file conversion, reducing manpower by 80%.
 
 `2022 – 2024`
@@ -50,7 +50,7 @@ __CGU Cloud Platform__
 
 `2019 – 2022`
 __Synthetic Phenol Plant Optimization Project__
-- (Time-Series Modeling, AIoT, Virtual Control Systems)
+- (Time-Series Modeling, AIoT, Virtual Control System)
 - Designed and developed a real-time AI-powered prediction system for phenol concentration in chemical manufacturing, utilizing AIoT and virtual control systems to provide energy-saving and cost-saving recommendations.
 - Integrated frontend/back-end systems, databases, and dashboards, collaborating with materials science experts to ensure system alignment and optimize operational efficiency.
 
