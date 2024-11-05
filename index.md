@@ -55,11 +55,11 @@ __AOI Defect Detection for Circuit Boards__
 - Managed project requirements and testing documents for a multiclass defect detection and classification system in circuit board manufacturing, while also contributing to the design of the system pipeline.
   
 `2019 – 2020`
-__PTA Particle Size Control Project__
+__PTA Particle Size Control Project__ (Time-Series AI Modeling)
 - Developed time-series AI models for predicting PTA particle size to improve product quality.
 
 `2019 – 2020`
-__AI Research on Metabolites__
+__AI Research on Metabolites__ (Clustering Algorithms)
 - Participated in unsupervised classification research on metabolites to evaluate the severity of illnesses related to sarcopenia and brain failure.
 
 
