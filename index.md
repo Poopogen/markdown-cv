@@ -31,7 +31,7 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 ## Projects
 `2024 – Present`
 __Ophthalmic 3D Microsurgery Techniques__
-(Depth Estimation, 3D Reconstruction, Video Data Processing)
+- - (Depth Estimation, 3D Reconstruction, Video Data Processing)
 - Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries.
 
 `2024 – Present`
