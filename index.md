@@ -31,17 +31,17 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 ## Projects
 `2024 – Present`
 __Ophthalmic 3D Microsurgery Techniques__
-- - (Depth Estimation, 3D Reconstruction, Video Data Processing)
+- (Depth Estimation, 3D Reconstruction, Video Data Processing)
 - Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries.
 
 `2024 – Present`
 __Automated Standard Engineering Drawing Retrieval__ 
-(Matching Algorithm, OCR, Keyword Extraction)
+- (Matching Algorithm, OCR, Keyword Extraction)
 - Developed an automated search system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset, and designed an automated system to streamline design file conversion, reducing manpower by 80%.
 
 `2022 – 2024`
 __Brain Tumor Diagnosis Research__ 
-(Contrastive Learning, Domain Adaptation, Medical MRI Data Processing)
+- (Contrastive Learning, Domain Adaptation, Medical MRI Data Processing)
 - Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, addressing domain shift and reduced model performance in small local hospital datasets while minimizing data labeling needs through unsupervised contrastive learning. 
 
 `2022 – 2024`
@@ -50,7 +50,7 @@ __CGU Cloud Platform__
 
 `2019 – 2022`
 __Synthetic Phenol Plant Optimization Project__
-(Time-Series AI Modeling, AIoT, Virtual Control Systems)
+- (Time-Series Modeling, AIoT, Virtual Control Systems)
 - Designed and developed a real-time AI-powered prediction system for phenol concentration in chemical manufacturing, utilizing AIoT and virtual control systems to provide energy-saving and cost-saving recommendations.
 - Integrated frontend/back-end systems, databases, and dashboards, collaborating with materials science experts to ensure system alignment and optimize operational efficiency.
 
@@ -60,13 +60,13 @@ __AOI Defect Detection for Circuit Boards__
   
 `2019 – 2020`
 __PTA Particle Size Control Project__
-(Time-Series AI Modeling)
+- (Time-Series Modeling)
 - Developed time-series AI models for predicting PTA particle size to improve product quality.
 
 
 `2019 – 2020`
 __AI Research on Metabolites__ 
-(Clustering Algorithms)
+- (Clustering Algorithms)
 - Participated in unsupervised classification research on metabolites to evaluate the severity of illnesses related to sarcopenia and brain failure. 
 
 
