@@ -46,7 +46,7 @@ __Brain Tumor Diagnosis Research__
 
 `2022 – 2024`
 __CGU Cloud Platform__ 
-- Led acceptance testing, maintained user guides, and served as the primary application interface for users of a cloud platform that provides GPU and CPU resources for educational purposes.
+- Participated in system and acceptance testing, maintained user guides, and served as the primary application interface for users of a cloud platform that provides GPU and CPU resources for educational purposes.
 
 `2019 – 2022`
 __Synthetic Phenol Plant Optimization Project__
