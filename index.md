@@ -7,6 +7,7 @@ title: Priscila Ung
 <a href="mailto:pici9218@gmail.com">Email</a>
 | <a href="https://www.linkedin.com/in/priscilaung">LinkedIn</a>
 | <a href="https://github.com/Poopogen">Github</a> 
+| <a href="https://www.cake.me/pris-cila">Chinese Resume</a>  
 </div>
 
 
