@@ -52,8 +52,8 @@ __Synthetic Phenol Plant Optimization Project__
 - Integrated frontend/back-end systems, databases, and dashboards, collaborating with materials science experts to ensure system alignment and optimize operational efficiency.
 
 `2019 – 2021`
-__AOI Defect Detection for Circuit Boards__
-- Managed project requirements and testing documents for a multiclass defect detection and classification system in circuit board manufacturing, while also contributing to the design of the system pipeline.
+__AOI Defect Detection for PCB__
+- Managed project requirements and testing documents for a multiclass defect detection and classification system in printed circuit board manufacturing, while also contributing to the design of the system pipeline.
   
 `2019 – 2020`
 __PTA Particle Size Control Project__
