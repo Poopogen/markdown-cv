@@ -46,7 +46,7 @@ __Brain Tumor Diagnosis Research__
 - Developed a contrastive adversarial domain adaptation approach for brain tumor segmentation, addressing domain shift and reduced model performance in small local hospital datasets while minimizing data labeling needs through unsupervised contrastive learning. 
 
 `2019 – 2022`
-__Synthetic Phenol Plant Optimization Project__
+__Synthetic Phenol Plant Optimization Project__ [(demo)](https://youtu.be/-SPuR8kWKsA)
 - (Time-Series Modeling, AIoT, Virtual Control System)
 - Designed and developed a real-time AI-powered prediction system for phenol concentration in chemical manufacturing, utilizing AIoT and virtual control systems to provide energy-saving and cost-saving recommendations.
 - Integrated frontend/back-end systems, databases, and dashboards, collaborating with materials science experts to ensure system alignment and optimize operational efficiency.
