@@ -83,10 +83,10 @@ Python
 Pytorch, Tensorflow, Keras, Sklearn
 
 ## Development Environment 
-Linux, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
+Linux, Windows, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
 
-## Platforms 
-MySQL, Grafana
+## Platforms and Others
+MySQL, Grafana, Git
 
 
 
