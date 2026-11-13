@@ -28,7 +28,7 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 
 
 ## Publications
-` `
+
 - **Priscila Ung\***, Yu-Yun Wang\*, Jane Yung-jen Hsu, Yen-Ling Kuo. "Layer-Wise Feature Alignment for Self-Supervised Depth Estimation from Endoscopic Monocular Images." *TAAI 2025 (International Track)*. (\*equal contribution)
 
 
