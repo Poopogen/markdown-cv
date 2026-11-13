@@ -93,7 +93,7 @@ Python
 ## ML and DL Frameworks 
 PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face
 
-**Robotics and Vision**
+## Robotics and Vision
 ROS2, Nav2, YOLO, OpenCV
 
 ## Development Environment 
