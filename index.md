@@ -17,8 +17,8 @@ title: Priscila Ung
 __AI Research Engineer__, [CGU AI Research Center](https://www.cgu.edu.tw/aic-en)
 - Developed and implemented AI technologies leveraging data analysis, machine learning, and deep learning, with a focus on supervised and unsupervised learning for computer vision and regression tasks.
 - Collaborated with cross-functional teams on projects involving depth estimation, feature matching, segmentation, object detection, and time series prediction.
-- Led a technical workshop for about 30 individuals in cross-functional training on the principles of AI virtual control systems and the operation of online systems, as well as on AI model development and implementation. Conducted two advanced educational AI workshops, introducing time series models to approximately 50 and 25 participants, respectively.
-- Oversaw project management activities, including progress tracking, contract negotiation, and stakeholder communication, while maintaining budgets and ensuring compliance with informative technical documentations.
+- Led a technical workshop for about 30 participants on AI virtual control systems, online system operation, and AI model development. Conducted two advanced AI workshops introducing time series models to approximately 50 and 25 participants, respectively.
+- Oversaw project management, including progress tracking, contract negotiation, and stakeholder communication, while maintaining budgets and technical documentation.
 
 
 `2014 – 2019`
@@ -27,10 +27,13 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 - Trained laboratory staff in best practices for chemical analysis, enhancing operational efficiency and accuracy in testing processes.
 
 
+## Publications
+
+- **Priscila Ung\***, Yu-Yun Wang\*, Jane Yung-jen Hsu, Yen-Ling Kuo. "Layer-Wise Feature Alignment for Self-Supervised Depth Estimation from Endoscopic Monocular Images." *TAAI 2025 (International Track)*. (\*equal contribution)
 
 
 ## Projects
-`2024 – Present`
+`2024 – 2025`
 __Automated Standard Engineering Drawing Retrieval__ 
 - (Matching Algorithms, OCR, Keyword Extraction)
 - Developed an automated search system that efficiently identifies new standard drawings and verifies existing ones within an extremely large dataset, and designed an automated system to streamline design file conversion, reducing manpower by 80%.
@@ -38,7 +41,8 @@ __Automated Standard Engineering Drawing Retrieval__
 `2023 – Present`
 __Ophthalmic 3D Microsurgery Techniques__
 - (Depth Estimation, 3D Reconstruction, Video Data Processing)
-- Developed depth estimation models for 3D reconstruction in eye research to provide doctors with precise distance information, enhancing accuracy during eye surgeries.
+- Developed depth estimation models for 3D reconstruction to provide surgeons with precise distance information, enhancing accuracy during eye surgeries.
+- Proposed a layer-wise feature alignment method for self-supervised monocular depth estimation on endoscopic images (published at TAAI 2025).
 
 `2022 – 2024`
 __Brain Tumor Diagnosis Research__ 
@@ -63,6 +67,13 @@ __PTA Particle Size Control Project__
 
 
 ## Education
+
+`2025 – Present` Chang Gung University
+ 
+- M.S. in Artificial Intelligence (Expected 2027)
+- Research focus: Causal task reasoning for replanning in long-horizon robot manipulation
+- Advisor: Jane Yung-jen Hsu
+
 `2012 – 2014`
 __National Chung Hsing University__
 - M.S. in Soil and Environmental Sciences
@@ -80,7 +91,10 @@ __National Chung Hsing University__
 Python
 
 ## ML and DL Frameworks 
-Pytorch, Tensorflow, Keras, Sklearn
+PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face
+
+**Robotics and Vision**
+ROS2, Nav2, YOLO, OpenCV
 
 ## Development Environment 
 Linux, Windows, High-Performance Computing (HPC) systems, VScode, Jupyter, Colab
