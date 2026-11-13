@@ -13,7 +13,7 @@ title: Priscila Ung
 
 
 ## Experience
-`2019 – Present`
+`2019 – 2025`
 __AI Research Engineer__, [CGU AI Research Center](https://www.cgu.edu.tw/aic-en)
 - Developed and implemented AI technologies leveraging data analysis, machine learning, and deep learning, with a focus on supervised and unsupervised learning for computer vision and regression tasks.
 - Collaborated with cross-functional teams on projects involving depth estimation, feature matching, segmentation, object detection, and time series prediction.
