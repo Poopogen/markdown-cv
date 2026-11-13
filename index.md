@@ -28,7 +28,7 @@ __Chemical Testing Analyst__, [NCHU Soil Survey and Testing Center](https://sstc
 
 
 ## Publications
-
+` `
 - **Priscila Ung\***, Yu-Yun Wang\*, Jane Yung-jen Hsu, Yen-Ling Kuo. "Layer-Wise Feature Alignment for Self-Supervised Depth Estimation from Endoscopic Monocular Images." *TAAI 2025 (International Track)*. (\*equal contribution)
 
 
@@ -68,8 +68,8 @@ __PTA Particle Size Control Project__
 
 ## Education
 
-`2025 – Present` Chang Gung University
- 
+`2025 – Present` 
+__Chang Gung University__
 - M.S. in Artificial Intelligence (Expected 2027)
 - Research focus: Causal task reasoning for replanning in long-horizon robot manipulation
 - Advisor: Jane Yung-jen Hsu
